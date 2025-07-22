@@ -1,0 +1,26 @@
+{
+  "name": "233capstoneusepublicapp",
+  "version": "1.0.0",
+  "description": "Using the JokeAPI the website gives the users a joke based on their name.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carolina0709/myOwnJoke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carolina0709/myOwnJoke/issues"
+  },
+  "homepage": "https://github.com/Carolina0709/myOwnJoke#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
